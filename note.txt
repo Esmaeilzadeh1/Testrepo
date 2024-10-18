@@ -1,3 +1,2 @@
-This is a Test Project.
-
-edited!
+This is a project on branch master on github.
+Thank you!
